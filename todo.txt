@@ -1,0 +1,28 @@
+Todo
+- Create basic Python project structure
+- Initialize repo on github
+- Create Player class
+- Create Group class containing players
+
+
+Features
+- Players are divided in groups
+- Every group is independent of the others
+- Predefined tournament templates for e.g. youth and adult tournaments
+- Groups in youth tournaments: B-U9, G-U9, G-U11, G-U11, ..., B-U19, G-U19 (B = Boys, G = Girls)
+- Groups in adult tournaments: M-A, W-A, M-B, W-B, M-C, W-C (M = Men, W = Women)
+- Different tournaments modes (like tree structure, group, etc.) depending on the number of players
+- Ability to add and remove players (also while tournament is running)
+- Ability to move players between groups
+- Players are shown both in a table and in a tournament mode visualization
+- Adding, moving and removing a player is possible in both views
+- Automatic match making either statically up front or dynamically in real time.
+- Automatically show next game to call up
+- Viszalization of all Badminton fields and the players currently on them
+- Registration and Login
+- Different roles (administrator, player, spectator)
+- Players can count their game digitally via smartphone
+- App runs both on mobile as well as desktop devices.
+  - Mobile mainly for players
+  - Desktop mainly for administrators
+- Ability to export result in various formats
